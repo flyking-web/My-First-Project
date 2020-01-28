@@ -1,0 +1,46 @@
+.carousel-item{
+    height:70vh;
+}
+
+/*section-a styles*/
+#section-a h1{
+    text-align: center;
+}
+
+#section-a .row{
+    margin-top:20px;
+}
+#section-a .card{
+    background-color:red;
+    font-weight: bold;
+    font-family: monospace;
+    font-size:0.7em;
+    height:70vh;
+}
+
+#section-a .card:hover{
+    box-shadow: 3px 3px 3px 3px #cce5ff;
+}
+
+#section-a .card img{
+    height:250px;
+    width:100%;
+}
+#section-a .card img:hover{
+   opacity:0.3;
+}
+
+/*section-b styles*/
+#section-b{
+    background-color: black;
+    color:black;
+    text-align: center;
+    font-family:monospace;
+    background-image: url("../images/main-qimg-5f74615b5cba094d653dfde5bf8b2392.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center ;
+    height:80vh;
+    padding-top:90px;
+}
+
